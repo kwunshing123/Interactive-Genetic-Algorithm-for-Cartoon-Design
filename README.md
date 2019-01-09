@@ -21,4 +21,4 @@ The IGA.py is the IGA logic.
 ```python App.py```
 
 - The interface of the program:  
-![demo.png](https://github.com/kwunshing123/Interactive-Genetic-Algorithm-for-Cartoon-Design/demo.png)
+![demo.png](https://github.com/kwunshing123/Interactive-Genetic-Algorithm-for-Cartoon-Design/blob/master/demo.png)
