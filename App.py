@@ -165,7 +165,6 @@ class App(tk.Tk):
                 canvas.create_image(x, y, image=self.img[-1])
 
     def _save_Canvas(self, canvas_id):
-        cv = self.canvas_index.get(canvas_id, "Index Error")
         x = 5 + canvas_id % 3 * 610
         y = 50 + math.floor(canvas_id / 3) * 750
         x1 = x + 600
